@@ -7,12 +7,16 @@
       <w>gintro</w>
       <w>glook</w>
       <w>gname</w>
+      <w>goodsinfo</w>
       <w>gprice</w>
+      <w>imgurl</w>
       <w>jspdemo</w>
       <w>mbrss</w>
       <w>mirai</w>
       <w>passw</w>
       <w>prestmt</w>
+      <w>uemail</w>
+      <w>upwd</w>
     </words>
   </component>
 </application>
