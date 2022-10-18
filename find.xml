@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="项目 'JSPproject'" />
     <option name="defaultScopeName" value="项目 'JSPproject'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="项目 'JSPproject'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
