@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Insert an element into the tree" />
+      <item value="Find the maximum value among the given numbers" />
       <item value="Determine the height of the given node." />
       <item value="Height of the given node." />
       <item value="Left child" />
@@ -13,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
