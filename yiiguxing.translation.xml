@@ -1,0 +1,38 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogX" value="706" />
+    <option name="newTranslationDialogY" value="384" />
+    <histories>
+      <item value="Determine the height of the given node." />
+      <item value="Height of the given node." />
+      <item value="Left child" />
+      <item value="theElement The element contained in this node" />
+      <item value="节点中包含的元素" />
+      <item value="Constructor; creates a node without any children" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1666316343349" />
+  </component>
+  <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tSD8Nhia8JE9NZkDSju" />
+      </app-key>
+    </option>
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="12105a6af83e61e7" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
