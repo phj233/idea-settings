@@ -4,6 +4,34 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Internal" />
+      <item value="Internal find method; search for an element starting at the given node." />
+      <item value="Element to find" />
+      <item value="Search for an element within the tree." />
+      <item value="Here, we have ended up when we are node which shall be removed. Check if there is a left-hand node, if so pick out the largest element out, and move down to the root." />
+      <item value="Remove from the tree. Nothing is done if x is not found." />
+      <item value="Internal method to find the largest item in a subtree." />
+      <item value="Internal method to find the smallest item in a subtree." />
+      <item value="Find the smallest item in the tree." />
+      <item value="Determine if the tree is empty." />
+      <item value="Deletes all nodes from the tree." />
+      <item value="Accumulator; string to keep appending items to." />
+      <item value="Tree node to traverse" />
+      <item value="Internal method to prefix-serialize a tree." />
+      <item value="String representation of the tree" />
+      <item value="In other words, the tree items will be serialized in the order that they are stored within the tree." />
+      <item value="Serialize the tree to a string using a prefix traversal." />
+      <item value="Internal method to infix-serialize a tree." />
+      <item value="In other words, the tree items will be serialized in numeric order." />
+      <item value="Serialize the tree to a string using an infix traversal." />
+      <item value="Double rotate binary tree node: first right child with its left child; then node k1 with new right child. For AVL trees, this is a double rotation for case 3. Update heights, then return new root." />
+      <item value="Rotate binary tree node with right child. For AVL trees, this is a single rotation for case 4. Update heights, then return new root." />
+      <item value="Double rotate binary tree node: first left child with its right child; then node k3 with new left child. For AVL trees, this is a double rotation for case 2. Update heights, then return new root." />
+      <item value="Internal method to perform an actual insertion." />
+      <item value="Root of tree we are rotating" />
+      <item value="k2 Root of tree we are rotating" />
+      <item value="Rotate binary tree node with left child. For AVL trees, this is a single rotation for case 1. Update heights, then return new root." />
+      <item value="rotate" />
       <item value="Insert an element into the tree" />
       <item value="Find the maximum value among the given numbers" />
       <item value="Determine the height of the given node." />
@@ -15,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
