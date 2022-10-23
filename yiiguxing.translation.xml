@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Successor" />
       <item value="abstract" />
       <item value="Sibling" />
       <item value="Scapegoat Tree" />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
