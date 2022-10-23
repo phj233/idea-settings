@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Scapegoat Tree" />
       <item value="Internal" />
       <item value="Internal find method; search for an element starting at the given node." />
       <item value="Element to find" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
