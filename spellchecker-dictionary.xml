@@ -3,6 +3,8 @@
     <words>
       <w>admininfo</w>
       <w>aname</w>
+      <w>bdescription</w>
+      <w>btitle</w>
       <w>conent</w>
       <w>connet</w>
       <w>delect</w>
