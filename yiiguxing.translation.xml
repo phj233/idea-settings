@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="vertex" />
+      <item value="stores distance values" />
+      <item value="adjacency matrix" />
+      <item value="DFS search of graph. results of DFS are stored in visited array" />
+      <item value="validate Matrix Helper" />
+      <item value="description: implements dijisktras algorithm using leftist tree and fibonacci tree. input can be a file (ex. test.txt) or a graph can be generated randomly. The output is only a list of min distances from the source to all other vertices. in random mode the runtime of each scheme is also in the output." />
+      <item value="dijikstra Solve" />
+      <item value="initialize" />
       <item value="object is not an instance of declaring class" />
       <item value="Successor" />
       <item value="abstract" />
@@ -48,8 +56,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="55" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
@@ -62,7 +71,6 @@
         <option name="appId" value="LTAI5tSD8Nhia8JE9NZkDSju" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
