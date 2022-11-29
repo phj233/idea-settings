@@ -6,5 +6,6 @@
     <option name="compactTreeIndents" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="smoothScrolling" value="false" />
   </component>
 </application>
