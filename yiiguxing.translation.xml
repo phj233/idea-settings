@@ -73,7 +73,6 @@
       </app-key>
     </option>
     <option name="keepFormat" value="true" />
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
