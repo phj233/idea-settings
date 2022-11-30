@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="A component required a bean of type 'com.prprv.spicy.mappers.FoodMapper' that could not be found." />
+      <item value="Consider defining a bean of type 'com.prprv.spicy.mappers.FoodMapper' in your configuration." />
       <item value="decrease" />
       <item value="vertex" />
       <item value="stores distance values" />
@@ -52,13 +54,11 @@
       <item value="Height of the given node." />
       <item value="Left child" />
       <item value="theElement The element contained in this node" />
-      <item value="节点中包含的元素" />
-      <item value="Constructor; creates a node without any children" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="58" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
