@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="706" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="String Index Out Of Bounds Exception" />
       <item value="No qualifying bean of type 'com.prprv.spicy.mappers.FoodMapper' available: expected at least 1 bean which qualifies as autowire " />
       <item value="A component required a bean of type 'com.prprv.spicy.mappers.FoodMapper' that could not be found." />
       <item value="Consider defining a bean of type 'com.prprv.spicy.mappers.FoodMapper' in your configuration." />
@@ -53,12 +54,11 @@
       <item value="Find the maximum value among the given numbers" />
       <item value="Determine the height of the given node." />
       <item value="Height of the given node." />
-      <item value="Left child" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="60" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
