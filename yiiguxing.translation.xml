@@ -89,12 +89,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="This application has no explicit mapping for error, so you are seeing this as a fallback." />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near ''user' (username, password, email)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
