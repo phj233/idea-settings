@@ -278,11 +278,6 @@
                     <option name="javaType" value="java.lang.Boolean" />
                     <option name="matchType" value="ORDINARY" />
                   </TypeMapper>
-                  <TypeMapper>
-                    <option name="columnType" value="enum('hotpot', 'snacks', 'normal')" />
-                    <option name="javaType" value="java.lang.String" />
-                    <option name="matchType" value="ORDINARY" />
-                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
